@@ -32,6 +32,7 @@ Cloudinary provides code repositories through two GitHub Organizations:
 
 - Projects and libraries are considered offical Cloudinary projects and do get official Cloudinary support. [Cloudinary Devs](https://github.com/cloudinary-devs) GitHub Organization.
 - Projects and libraries are considered community projects and do not indicate official Cloudinary support. [Cloudinary Community](https://github.com/cloudinary-community) GitHub Organization.
+- Official Cloudinary organization for all the libraries, SDKs, and API we support. [Cloudinary](https://github.com/cloudinary).
 
 # 🚀 Contribute
 
