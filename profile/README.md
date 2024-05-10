@@ -26,8 +26,8 @@ Trusted by 1.5 million developers and 10,000 enterprise and hyper-growth compani
 
 Cloudinary provides code repositories through two GitHub Organizations:
 
-[Cloudinary GitHub](https://github.com/cloudinary): Official Cloudinary organization for all the libraries, SDKs, and APIs.
-[Cloudinary Community](https://github.com/cloudinary-community):The projects and libraries are part community and do not indicate official Cloudinary support.
+- [Cloudinary GitHub](https://github.com/cloudinary): Official Cloudinary organization for all the libraries, SDKs, and APIs.
+- [Cloudinary Community](https://github.com/cloudinary-community):The projects and libraries are part community and do not indicate official Cloudinary support.
 
 # 🚀 Contribute
 
