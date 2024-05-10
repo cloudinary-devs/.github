@@ -31,7 +31,7 @@ Cloudinary provides code repositories through two GitHub Organizations:
 
 # 🚀 Contribute
 
-If you want to create a new repo, please ensure to add this [README.md](https://github.com/cloudinary-devs/Cloudinary-Template-README), a[MIT License](https://github.com/cloudinary-devs/Cloudinary-Template-README/blob/main/LICENSE), and follow the [Cloudinary repo guidelines](https://github.com/cloudinary-devs/Cloudinary-Repo-Guidelines).
+If you want to create a new repo, please ensure to add this [README.md](https://github.com/cloudinary-devs/Cloudinary-Template-README), a [MIT License](https://github.com/cloudinary-devs/Cloudinary-Template-README/blob/main/LICENSE), and follow the [Cloudinary repo guidelines](https://github.com/cloudinary-devs/Cloudinary-Repo-Guidelines).
 
 # 🫂 Cloudinary Developer Community
 
