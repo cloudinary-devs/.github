@@ -22,9 +22,7 @@ Image and Video API Platform
 **Visualize Engaging Experiences**
 Trusted by 1.5 million developers and 10,000 enterprise and hyper-growth companies as a critical part of their tech stack.
 
-# 🧪 Code Repositories
-
-Cloudinary provides code repositories through two GitHub Organizations:
+# 🧪 More from Cloudinary
 
 - [Cloudinary GitHub](https://github.com/cloudinary): Official Cloudinary organization for all the libraries, SDKs, and APIs.
 - [Cloudinary Community](https://github.com/cloudinary-community):The projects and libraries are part community and do not indicate official Cloudinary support.
